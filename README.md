@@ -1,4 +1,4 @@
-![Resim 1: ][https://github.com/cemtekinn/React-Eticaret-Frontend/blob/master/1.png]
+![Resim 1: ](https://github.com/cemtekinn/React-Eticaret-Frontend/blob/master/1.png)
 
 
 # Getting Started with Create React App
